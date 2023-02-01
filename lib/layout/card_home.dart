@@ -19,7 +19,8 @@ class BusinessCardHome extends StatelessWidget {
               radius: 120, // Image radius
               backgroundImage:AssetImage("lib/assets/image/card.png")
               ),
-          )
+          ),
+          Text("Reem Osama",style: TextStyle(fontSize: 32,color: Colors.pink,fontFamily: "Pacifico"),)
 
 
         ],
